@@ -1,5 +1,4 @@
 # 3rd_computer_architecture
-## Author: Cristopher Manuel Afonso Mora - alu0101402031@ull.edu.es
 
 En esta repositorio trabajaremos con el simulador de máquinas superescalares SIMDE de la Universidad de La Laguna
 
@@ -27,5 +26,5 @@ for (int row = 1; row < height - 1; row++) {
         resultImg[row * Wp + col] = magX;  
 
    }
-   
+
 }
