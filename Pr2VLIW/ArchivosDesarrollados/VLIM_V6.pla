@@ -1,4 +1,4 @@
-172
+166
 ADDI R1 R0 #115 // R1 = pImg
 ADDI R2 R0 #413 // R2 = resultImg
 ADDI R3 R0 #16 // R3 -> int = Wp (Width pixel = 16)
